@@ -1,11 +1,5 @@
 # GatorTaxi
-GatorTaxi is an up-and-coming ride-sharing service. They get many ride requests every day and are planning to develop new software to keep track of their pending ride requests.
 
-## Description
-
-**Project Title: GatorTaxi Ride Management System**
-
-**Introduction:**
 GatorTaxi is a ride-hailing service that needs an efficient system to manage ride requests, prioritize them based on cost and duration, and handle various operations such as adding, updating, canceling rides, and selecting the next ride. This project aims to develop a comprehensive Ride Management System for GatorTaxi using a combination of data structures like Min Heap and Red-Black Tree (RBT).
 
 **Features:**
